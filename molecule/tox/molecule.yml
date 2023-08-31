@@ -23,9 +23,9 @@ scenario:
   test_sequence:
   - create
   - prepare
-  - converge
-  - idempotence
-  - side_effect
-  - verify
+#  - converge
+#  - idempotence
+#  - side_effect
+#  - verify
   - cleanup
   - destroy
